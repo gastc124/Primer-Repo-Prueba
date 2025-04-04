@@ -1,0 +1,5 @@
+{"level":"info","message":"⌛ Building environment","timeElapsed":153,"timestamp":"2025-04-04T00:06:03.859Z"}
+{"level":"info","message":"onRequest - WORKSPACE_URI:file:///c%3A/Users/gasto/Desktop/tp","timestamp":"2025-04-04T00:06:03.869Z"}
+{"level":"info","message":"⌛ Validating prueba/1/example.wlk","timeElapsed":123,"timestamp":"2025-04-04T00:06:04.141Z"}
+{"level":"info","message":"⌛ Validating prueba/1/testExample.wtest","timeElapsed":102,"timestamp":"2025-04-04T00:06:04.329Z"}
+{"level":"info","message":"⌛ Validating prueba/1/example.wlk","timeElapsed":111,"timestamp":"2025-04-04T00:22:03.040Z"}
